@@ -13,6 +13,8 @@ int main(void)
     x = y;
     y = temp;
 	// swapping is done
+	// merge conflicts
+	// merge made conflicts on purpose
     	
     printf("x is now %i\n", x);
     printf("y is now %i\n", y);
