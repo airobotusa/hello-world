@@ -15,7 +15,7 @@ int main(void)
 	// swapping is done
 	// merge conflicts
 	// merge made conflicts on purpose
- 	// merge 2 for conflicts 222 333
+ 	// merge 2 for conflicts 222 333 444
 
     printf("x is now %i\n", x);
     printf("y is now %i\n", y);
